@@ -156,7 +156,7 @@ Each challenge:
 The goal is to get **hands-on with useful embedded technologies**, explore different approaches and learn from each other.
 
 **Current challenges:**
-- **[Challenge #1](https://github.com/Embedded-Systems-Hub/Challenges/tree/main/qemu-stm32vldiscovery-uart) - QEMU & Debugging:** Emulation-based development and debugging workflows
+- **[Challenge #1 - QEMU & Debugging](https://github.com/Embedded-Systems-Hub/Challenges/tree/main/qemu-stm32vldiscovery-uart):** Emulation-based development and debugging workflows
 - **Challenge #2 - Sections & Memory Layout:** Understanding binaries, linker outputs, and memory organization
 
 <br>
