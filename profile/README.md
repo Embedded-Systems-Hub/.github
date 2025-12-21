@@ -1,4 +1,4 @@
-<img width="1000" height="790" alt="image" src="https://github.com/user-attachments/assets/d51a16f9-6bcb-408c-a339-479d0ab31163" />
+<img width="1000" height="790" alt="image" src="https://github.com/Embedded-Systems-Hub/.github/blob/main/assets/embedded-systems-hub.png" />
 
 <br>
 <br>
@@ -46,7 +46,7 @@ At the moment, this organization contains the following repositories:
 
 **[Basic Level](https://github.com/Embedded-Systems-Hub/EMBEDDED-ROADMAP-Basic)**
 
-<img width="500" height="630" alt="EMBEDDED-ROADMAP-Basic" src="https://github.com/user-attachments/assets/dc849afc-3ea9-4570-bbde-a8674b3d42aa" />
+<img width="500" height="630" alt="EMBEDDED-ROADMAP-Basic" src="https://github.com/Embedded-Systems-Hub/.github/blob/main/assets/embedded-roadmap-basic.png" />
 
 <br>
 <br>
@@ -65,7 +65,7 @@ You’ll learn:
 
 **[Advanced Level](https://github.com/Embedded-Systems-Hub/EMBEDDED-ROADMAP-Advanced)**
 
-<img width="500" height="630" alt="EMBEDDED-ROADMAP-Advanced" src="https://github.com/user-attachments/assets/d40aee60-d8dc-49af-af60-22dea2455b61" />
+<img width="500" height="630" alt="EMBEDDED-ROADMAP-Advanced" src="https://github.com/Embedded-Systems-Hub/.github/blob/main/assets/embedded-roadmap-advanced.png" />
 
 <br>
 <br>
@@ -86,7 +86,7 @@ You’ll learn:
 
 **[Expert Level](https://github.com/Embedded-Systems-Hub/EMBEDDED-ROADMAP-Expert)**
 
-<img width="500" height="630" alt="EMBEDDED-ROADMAP-Expert" src="https://github.com/user-attachments/assets/cafdc80f-caec-4731-973a-aad42aec6d96" />
+<img width="500" height="630" alt="EMBEDDED-ROADMAP-Expert" src="https://github.com/Embedded-Systems-Hub/.github/blob/main/assets/embedded-roadmap-expert.png" />
 
 <br>
 <br>
@@ -102,7 +102,7 @@ _In progress..._
 <a id="github-actions"></a>
 ## 🤖 GitHub Actions (CI/CD) - Available January 2026
 
-<img width="500" height="1969" alt="GitHub-Actions" src="https://github.com/user-attachments/assets/ef2eac9a-9763-4ae9-b196-08630b48bd93" />
+<img width="500" height="1969" alt="GitHub-Actions" src="https://github.com/Embedded-Systems-Hub/.github/blob/main/assets/github-actions-cicd.png" />
 
 <br>
 <br>
@@ -122,7 +122,7 @@ You’ll learn:
 <a id="freertos"></a>
 ## ⏱️ FreeRTOS - Available January 2026
 
-<img width="500" height="630" alt="FreeRTOS" src="https://github.com/user-attachments/assets/127fca3c-0dd4-40e0-9a0f-2001de69ef93" />
+<img width="500" height="630" alt="FreeRTOS" src="https://github.com/Embedded-Systems-Hub/.github/blob/main/assets/freertos.png" />
 
 <br>
 <br>
@@ -162,4 +162,4 @@ The goal is to get **hands-on with useful embedded technologies**, explore diffe
 <br>
 <br>
 
-<img width="1000" height="313" alt="Embedded Systems Hub (3)" src="https://github.com/user-attachments/assets/fd6af99c-0a6a-4a38-a0d3-6fb9c0265238" />
+<img width="1000" height="313" alt="Embedded Systems Hub (3)" src="https://github.com/Embedded-Systems-Hub/.github/blob/main/assets/embedded-systems-hub-banner.png" />
