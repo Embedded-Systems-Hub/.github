@@ -15,14 +15,15 @@ The repositories in this organization are designed to reflect **industry-level e
 
 ## 🔐 Access
 
-Access to this GitHub organization is granted **exclusively** through the **Embedded Systems Hub community on Skool**.
+Access to this GitHub organization is **exclusive** to members of the Embedded Systems Hub community (Skool).
 
 To get access:
 
-1. [Join the Embedded Systems Hub community on Skool](https://www.skool.com/embedded-systems-hub/about)
-2. You will receive an **invitation to this GitHub organization**
+1. [Join the Embedded Systems Hub waitlist](https://tally.so/r/wMo0BM)
+2. You’ll be notified when the community opens.
+3. After joining Embedded Systems Hub, you'll receive an **invitation to this GitHub organization**
 
-Once inside, you’ll get access to all current and future repositories.
+Once inside, you’ll have access to all current and future repositories.
 
 <br>
 
