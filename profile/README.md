@@ -157,8 +157,9 @@ Each challenge:
 The goal is to get **hands-on with useful embedded technologies**, explore different approaches and learn from each other.
 
 **Current challenges:**
-- **[Challenge #1 - QEMU & Debugging](https://github.com/Embedded-Systems-Hub/Challenges/tree/main/qemu-stm32vldiscovery-uart):** Emulation-based development and debugging workflows
-- **Challenge #2 - Sections & Memory Layout:** Understanding binaries, linker outputs, and memory organization
+- **[Challenge #1 - QEMU & Debugging](https://github.com/Embedded-Systems-Hub/Challenges/tree/main/ch001-qemu-stm32vldiscovery-uart):** Emulation-based development and debugging workflows
+- **[Challenge #2 - Sections & Memory Layout](https://github.com/Embedded-Systems-Hub/Challenges/tree/main/ch002-sections-memory-layout):** Understanding binaries, linker outputs, and memory organization
+- **[Challenge #3 - FreeRTOS Tasks](https://github.com/Embedded-Systems-Hub/Challenges/tree/main/ch003-FreeRTOS-tasks):** FreeRTOS task creation, priorities, scheduling behavior, and real-time analysis using SEGGER SystemView
 
 <br>
 <br>
