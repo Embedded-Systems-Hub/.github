@@ -50,7 +50,6 @@ At the moment, this organization contains the following repositories:
 <img width="500" height="630" alt="EMBEDDED-ROADMAP-Basic" src="https://github.com/Embedded-Systems-Hub/.github/blob/main/assets/embedded-roadmap-basic.png" />
 
 <br>
-<br>
 
 Build a solid foundation and the right mindset in embedded systems development.  
 Focus on bare-metal development, core embedded concepts and low-level peripheral access.
@@ -62,13 +61,14 @@ You’ll learn:
 - The embedded build process, toolchain, and debugging basics
 - Industry workflows and mindset (Git, Agile/SCRUM, V-cycle)
 
+<br>
+
 ##
 
 **[Advanced Level](https://github.com/Embedded-Systems-Hub/EMBEDDED-ROADMAP-Advanced)**
 
 <img width="500" height="630" alt="EMBEDDED-ROADMAP-Advanced" src="https://github.com/Embedded-Systems-Hub/.github/blob/main/assets/embedded-roadmap-advanced.png" />
 
-<br>
 <br>
 
 Move from “working code” to scalable and maintainable embedded software architectures.  
@@ -83,13 +83,14 @@ You’ll learn:
 - Advanced peripherals and data handling (PWM, DMA)
 - Professional tooling and workflows (CMake, Docker, CI/CD with GitHub Actions)
 
+<br>
+
 ##
 
 **[Expert Level](https://github.com/Embedded-Systems-Hub/EMBEDDED-ROADMAP-Expert)**
 
 <img width="500" height="630" alt="EMBEDDED-ROADMAP-Expert" src="https://github.com/Embedded-Systems-Hub/.github/blob/main/assets/embedded-roadmap-expert.png" />
 
-<br>
 <br>
 
 Master real-time, reliable, and production-grade embedded systems.
@@ -114,7 +115,6 @@ You’ll learn:
 <img width="500" height="1969" alt="GitHub-Actions" src="https://github.com/Embedded-Systems-Hub/.github/blob/main/assets/github-actions-cicd.png" />
 
 <br>
-<br>
 
 Learn how to set up a **CI/CD system for embedded projects** using GitHub Actions.
 
@@ -133,7 +133,6 @@ You’ll learn:
 
 <img width="500" height="630" alt="FreeRTOS" src="https://github.com/Embedded-Systems-Hub/.github/blob/main/assets/freertos.png" />
 
-<br>
 <br>
 
 Learn how to build **real-time embedded systems** using **FreeRTOS**.
