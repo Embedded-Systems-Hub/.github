@@ -92,10 +92,18 @@ You’ll learn:
 <br>
 <br>
 
-Master real-time, reliable, and production-grade systems.  
-Focus on RTOS-based designs, robustness, timing constraints, and industry-level practices.
+Master real-time, reliable, and production-grade embedded systems.
+Focus on RTOS-based designs, fault tolerance, timing guarantees, power management, and industry-level quality practices.
 
-_In progress..._
+You’ll learn:
+- Real-time systems fundamentals (tasks, scheduling, priorities, WCET)
+- RTOS-based designs and concurrency management
+- Common RTOS pitfalls and synchronization mechanisms
+- Reliability and safety patterns (watchdog, post-mortem reporting, reset analysis)
+- Time-aware systems (RTC, timestamped logs and diagnostics)
+- Power and energy management (low-power modes, standby, wake-up strategies)
+- Embedded CI/CD pipelines and quality artefacts (unit tests, static analysis, documentation)
+- Building firmware ready for long-term operation, maintenance, and delivery
 
 <br>
 <br>
