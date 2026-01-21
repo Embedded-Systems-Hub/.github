@@ -36,7 +36,7 @@ Once inside, you’ll have access to all current and future repositories.
 
 At the moment, this organization contains the following repositories:
 - 🗺️ **[Embedded Roadmap Program](#embedded-roadmap-program)**
-- 🤖 **[GitHub Actions (CI/CD)](#github-actions)**
+- 🤖 **[GitHub Actions CI/CD](#github-actions)**
 - ⏱️ **[FreeRTOS](#freertos)**
 - 🔥 **[Monthly Challenges](#monthly-challenges)**
 
@@ -110,7 +110,9 @@ You’ll learn:
 <br>
 
 <a id="github-actions"></a>
-## 🤖 GitHub Actions (CI/CD) - Available January 2026
+## 🤖 GitHub Actions CI/CD
+
+**[GitHub Actions CI/CD](https://github.com/Embedded-Systems-Hub/my-cicd-project)**
 
 <img width="500" height="1969" alt="GitHub-Actions" src="https://github.com/Embedded-Systems-Hub/.github/blob/main/assets/github-actions-cicd.png" />
 
@@ -118,12 +120,34 @@ You’ll learn:
 
 Learn how to set up a **CI/CD system for embedded projects** using GitHub Actions.
 
+**Course Structure:**
+1. Introduction
+2. CI Skeleton (Build + Artifacts)
+3. Understanding ci.yml
+4. Dockerized Builds
+5. CMake Build System
+6. Multi-Job Pipeline
+7. Non-Blocking Jobs
+8. Docker Hub Integration
+9. Release Management & Versioning
+10. Hardware Deployment (Self-Hosted Runner)
+
 You’ll learn:
-- CI/CD concepts applied to embedded systems
-- Docker-based toolchains for reproducible builds
-- Building firmware automatically on every commit
-- Adding jobs for: style checks, unit tests, coverage, and static analysis
-- Designing scalable CI pipelines ready for real projects
+- GitHub Actions workflow fundamentals (triggers, jobs, steps, artifacts).
+- Docker-based toolchains for reproducible builds.
+- CMake build system for cross-compilation.
+- Multi-job pipelines with code quality checks:
+  - Style checking with clang-format.
+  - Building with CMake + Ninja.
+  - Static analysis with cppcheck.
+  - Complexity analysis with Lizard.
+  - Unit tests with CppUTest.
+  - Coverage reporting with gcovr.
+- Docker Hub integration with dynamic tagging and caching strategies.
+- Non-blocking jobs for flexible CI during development.
+- Release management with SemVer (Semantic Versioning) and automated GitHub releases.
+- Hardware deployment using self-hosted runners (complete CI/CD).
+- Professional embedded software delivery workflows.
 
 <br>
 <br>
